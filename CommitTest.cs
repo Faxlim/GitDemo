@@ -6,5 +6,7 @@ namespace GitDemo
 {
     internal class CommitTest
     {
+        public int BirthAge { get; set; }
+        public string Name { get; set; }
     }
 }
